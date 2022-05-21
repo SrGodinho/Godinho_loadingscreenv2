@@ -1,8 +1,8 @@
 fx_version 'adamant'
 game 'gta5'
 
-author "F1"
-description "discord.gg/Nb23tC3wmA"
+author "Godinho"
+description "discord.gg/xAbdKDmpP9"
 version "2.0"
 
 files {
